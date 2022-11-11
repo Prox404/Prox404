@@ -3,7 +3,10 @@
 
 <h3 align="center">
 
-<img src="https://i.ibb.co/176z8y8/Prox-logo-white.png" width="200"><br>
+  <a href="https://www.facebook.com/Prox.Error404">
+  <img src="https://i.ibb.co/176z8y8/Prox-logo-white.png" width="200"><br>
+</a>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B4B4B4&center=true&width=435&lines=I'm+Prox;Lazy+Developer;Welcome+to+my+Github)](https://git.io/typing-svg)
 
@@ -13,9 +16,7 @@
 
 <div align="center">
 
-<a href="https://www.facebook.com/Prox.Error404">
 
-</a>
 
 </div><br>
 
