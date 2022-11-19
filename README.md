@@ -34,13 +34,13 @@ using namespace std::prox;
 
 int main() {
 
-char info[2002] = "Just Lazy Developer 💀";
+  char info[2002] = "Just Lazy Developer 💀";
 
-char *langs[3] = { "JS", "PHP", "HTML", "CSS", "MYSQL", "MONGODB" };
+  char *langs[3] = { "JS", "PHP", "HTML", "CSS", "MYSQL", "MONGODB" };
 
-char tech[11] = { "Boostraps", "ReactJs", "Laravel", "Express" };
+  char tech[11] = { "Boostraps", "ReactJs", "Laravel", "Express" };
 
-char tools[4] = { "Photoshop", "Illustrator", "Figma", "Github" };
+  char tools[4] = { "Photoshop", "Illustrator", "Figma", "Github" };
 
 // Facebook: https://www.facebook.com/Prox.Error404;
 
@@ -63,7 +63,7 @@ return 0;
          height="150em"
          src="https://github-readme-streak-stats.herokuapp.com/?user=captainprox02&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
   </a>
-  <a href="https://github.com/Okami0xff666">
+  <a href="https://github.com/Prox404">
     <img align="center"
          height="150em"
          src="https://github-readme-stats.vercel.app/api/top-langs?username=captainprox02&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact"
