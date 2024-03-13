@@ -55,18 +55,18 @@ return 0;
   <a href="https://github.com/Prox404">
     <img align="center"
          height="150em"
-         src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=captainprox02&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117" />
+         src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Prox404&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117" />
   </a>
     
   <a href="https://github.com/Prox404">
     <img align="center"
          height="150em"
-         src="https://github-readme-streak-stats.herokuapp.com/?user=captainprox02&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
+         src="https://github-readme-streak-stats.herokuapp.com/?user=Prox404&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
   </a>
   <a href="https://github.com/Prox404">
     <img align="center"
          height="150em"
-         src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=prox404&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact"
+         src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Prox404&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact"
     />
   </a>
     <a href="https://github.com/Prox404">
